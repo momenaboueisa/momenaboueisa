@@ -19,11 +19,11 @@ Dedicated full-stack web developer with a relentless commitment to ongoing learn
 <hr/>
 <h3 align="left">🤖 Skills and Tools</h3>
 <img align="left" alt="c-sharp" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" style="max-width: 100%;">
-<img align="left" alt="asp-net-core" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" style="max-width: 100%;">
-<img align="left" alt="blazor" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png" style="max-width: 100%;">
+<img align="left" alt="asp-net-core" width="30px" src="https://dashboardicons.com/icons/external/asp-net-core" style="max-width: 100%;">
+<img align="left" alt="blazor" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" style="max-width: 100%;">
 <img align="left" alt="sql-server" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" style="max-width: 100%;">
-<img align="left" width="30px" style="max-width:100%;" alt="Visual Studio Code" title="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
-<img align="left" width="30px" alt="Visual Studio" style="max-width:100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png">
+<img align="left" width="30px" style="max-width:100%;" alt="Visual Studio Code" title="Visual Studio Code" src="https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg">
+<img align="left" width="30px" alt="Visual Studio" style="max-width:100%;" src="https://commons.wikimedia.org/wiki/File:Visual_Studio_Icon_2022.svg">
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;">
 <img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" style="max-width: 100%;">
