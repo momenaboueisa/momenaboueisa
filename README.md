@@ -1,6 +1,6 @@
 <h1 align="left">Moamen Aboueisa</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=white&vCenter=true&pause=1000&size=26" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=white&vCenter=true&pause=1000&size=26" /></a>
 </p>
  <strong><code style="background:gray;">Full-Stack Web Developer</code></strong><br/>
 <img src="https://github.com/momenaboessa/momenaboessa/blob/main/2-min-min.png" align="right" width=25% />
@@ -10,10 +10,10 @@ Dedicated full-stack web developer with a relentless commitment to ongoing learn
 
 <p align="left">
    <a href="https://www.facebook.com/momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Facebook-025a93?style=for-the-badge&logoColor=white&logo=facebook"/></a>
- <a href="https://www.youtube.com/@momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/Subcribe-d61212?style=for-the-badge&logo=video&logoColor=white"/></a>  
- <a href="https://www.linkedin.com/in/momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"></a>
+   <a href="https://www.youtube.com/@momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/Subcribe-d61212?style=for-the-badge&logo=video&logoColor=white"/></a>  
+   <a href="https://www.linkedin.com/in/momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"></a>
    <a href="https://www.instagram.com/momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Instagram-ff059a?style=for-the-badge&logoColor=white&logo=instagram"/></a>
-    <a href="https://www.x.com/momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Twitter-00bdff?style=for-the-badge&logoColor=white&logo=twitter"/></a>
+   <a href="https://www.x.com/momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Twitter-00bdff?style=for-the-badge&logoColor=white&logo=twitter"/></a>
  </p>
  
 <hr/>
