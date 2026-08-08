@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=6%2B%20Years%20of%20Coding%20Experience;.NET%20%E2%80%A2%20Blazor%20%E2%80%A2%20Django;Clean%20Code%20%E2%80%A2%20Clean%20Architecture;Always%20Learning%20New%20Things%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45&color=00C6FF&vCenter=true&pause=1000&size=20" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=6%2B%20Years%20of%20Coding%20Experience;.NET%20%E2%80%A2%20Blazor%20%E2%80%A2%20SQL%20Server;Clean%20Code%20%E2%80%A2%20Clean%20Architecture;Always%20Learning%20New%20Things%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45&color=00C6FF&vCenter=true&pause=1000&size=20" alt="typing intro"/>
 </h3>
 
 <p align="center">
@@ -36,7 +36,7 @@ var momen = new Developer
 {
     Role  = "Full-Stack Web Dev",
     Exp   = "6+ years",
-    Stack = [".NET", "Blazor", "Django"],
+    Stack = [".NET", "Blazor", "SQL Server"],
     Web   = "momenaboueisa.com"
 };
 ```
@@ -54,7 +54,7 @@ var momen = new Developer
 
 <p align="center">
   <a href="https://www.momenaboueisa.com">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,ts,js,jquery,html,css,visualstudio,vscode,git,github,linux&perline=7" alt="tech stack icons"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,js,jquery,html,css,visualstudio,vscode,git,github,linux&perline=7" alt="tech stack icons"/>
   </a>
 </p>
 
