@@ -1,19 +1,12 @@
-<!-- ⚡ Animated hero banner -->
+<!-- ═══════════════ HERO ═══════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0%3A00c6ff%2C100%3A0072ff&text=Momen%20Abou%20Eisa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20.NET%20%E2%80%A2%20Blazor%20%E2%80%A2%20Django&descSize=16&descAlignY=55" alt="banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A00c6ff%2C100%3A0072ff&text=Momen%20Abou%20Eisa&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer&descSize=18&descAlignY=52" alt="banner"/>
 </p>
 
-<!-- ⌨️ Terminal-style typing animation -->
-<p align="center">
-  <a href="https://www.momenaboueisa.com">
-    <img src="https://readme-typing-svg.demolab.com?lines=Who+am+I%3F+A+Full-Stack+Web+Developer;6%2B+Years+of+Coding+Experience;.NET+%7C+Blazor+%7C+Django;Always+Learning+New+Things+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=60&color=00C6FF&vCenter=true&pause=1000&size=20&duration=4000" alt="typing intro"/>
-  </a>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=6%2B%20Years%20of%20Coding%20Experience;.NET%20%E2%80%A2%20Blazor%20%E2%80%A2%20Django;Clean%20Code%20%E2%80%A2%20Clean%20Architecture;Always%20Learning%20New%20Things%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=440&height=45&color=00C6FF&vCenter=true&pause=1000&size=20" alt="typing intro"/>
+</h3>
 
-<!-- 🌈 Animated divider -->
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
-
-<!-- 🔗 Website + Socials -->
 <p align="center">
   <a href="https://www.momenaboueisa.com"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-momenaboueisa.com-00C6FF?style=for-the-badge&logo=globe&logoColor=white&labelColor=0072ff" alt="Website"/></a>
 </p>
@@ -31,33 +24,32 @@
   <img src="https://komarev.com/ghpvc/?username=momenaboueisa&style=for-the-badge&color=0072ff" alt="profile views"/>
 </p>
 
-<br/>
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
 
+<!-- ═══════════════ ABOUT ═══════════════ -->
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="coding gif"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="coding gif"/>
 
 ```csharp
-public class Developer
+var momen = new Developer
 {
-    public string Name       => "Momen Abou Eisa";
-    public string Role       => "Full-Stack Web Developer";
-    public int    Experience => 6; // years and counting
-    public string Website    => "momenaboueisa.com";
-    public string Motto      => "Ship clean code. Never stop learning.";
-}
+    Role  = "Full-Stack Web Dev",
+    Exp   = "6+ years",
+    Stack = [".NET", "Blazor", "Django"],
+    Web   = "momenaboueisa.com"
+};
 ```
 
 - 🔭 Building modern web apps with **ASP.NET Core** & **Blazor**
 - 🌐 Portfolio → [**momenaboueisa.com**](https://www.momenaboueisa.com)
-- 🎥 Tutorials on YouTube → [**Momen Aboessa**](https://www.youtube.com/@momenaboueisa)
-- 🤝 Team player · clean architecture enthusiast
-- 📫 Reach me at **momenessa594@gmail.com**
+- 🎥 Tutorials → [**YouTube**](https://www.youtube.com/@momenaboueisa) · 📫 [**momenessa594@gmail.com**](mailto:momenessa594@gmail.com)
 
 <br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
 
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -74,6 +66,7 @@ public class Developer
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
 
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -89,11 +82,11 @@ public class Developer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=momenaboueisa&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff&area=true&area_color=00C6FF" alt="Contribution graph"/>
 </p>
 
-<!-- 🌊 Animated footer -->
+<!-- ═══════════════ FOOTER ═══════════════ -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0%3A00c6ff%2C100%3A0072ff&section=footer&animation=twinkling" alt="footer"/>
 </p>
 
 <p align="center">
-  <i>⚡ "Fueled by passion — delivering innovative solutions that optimize efficiency and elevate user experiences."</i>
+  <i>⚡ "Ship clean code. Never stop learning."</i>
 </p>
