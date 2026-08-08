@@ -1,40 +1,117 @@
-<h1 align="left">Momen Abou Eisa</h1>
+<!-- ⚡ Banner -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;6%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=white&vCenter=true&pause=1000&size=26" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Momen%20Abou%20Eisa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20.NET%20%E2%80%A2%20Blazor%20%E2%80%A2%20Django&descSize=18&descAlignY=55" alt="banner"/>
 </p>
- <strong><code style="background:gray;">Full-Stack Web Developer</code></strong><br/>
-<img src="https://github.com/momenaboessa/momenaboessa/blob/main/2-min-min.png" align="right" width=25% />
-Dedicated full-stack web developer with a relentless commitment to ongoing learning and staying abreast of the latest technologies. Proficient in both front-end and back-end technologies, I excel as a collaborative team player and socially-oriented professional. Fueled by passion, I strive to deliver innovative solutions that optimize efficiency and elevate user experiences..<br/> you can visit my youtube channel where i publish my content "<a href='https://www.youtube.com/@momenaboueisa'>Momen Aboessa<a/>".<br/>
 
-📫 How to reach me: momenessa594@gmail.com
+<!-- ⌨️ Typing intro -->
+<p align="center">
+  <a href="https://github.com/momenaboessa">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+developer;6%2B+years+of+coding+experience;Building+clean%2C+scalable+solutions;Always+learning+new+things+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" alt="typing intro"/>
+  </a>
+</p>
 
-<p align="left">
-   <a href="https://www.facebook.com/momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Facebook-025a93?style=for-the-badge&logoColor=white&logo=facebook"/></a>
-   <a href="https://www.youtube.com/@momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/Subcribe-d61212?style=for-the-badge&logo=video&logoColor=white"/></a>  
-   <a href="https://www.linkedin.com/in/momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"></a>
-   <a href="https://www.instagram.com/momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Instagram-ff059a?style=for-the-badge&logoColor=white&logo=instagram"/></a>
-   <a href="https://www.x.com/momenaboueisa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Twitter-00bdff?style=for-the-badge&logoColor=white&logo=twitter"/></a>
- </p>
- 
-<hr/>
-<h3 align="left">🤖 Skills and Tools</h3>
-<img align="left" alt="c-sharp" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" style="max-width: 100%;">
-<img align="left" alt="asp-net-core" width="30px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/asp-net-core.png" style="max-width: 100%;">
-<img align="left" alt="blazor" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" style="max-width: 100%;">
-<img align="left" alt="sql-server" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" style="max-width: 100%;">
-<img align="left" width="30px" style="max-width:100%;" alt="Visual Studio Code" title="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png">
-<img align="left" width="30px" alt="Visual Studio" style="max-width:100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/3840px-Visual_Studio_Icon_2022.svg.png">
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;">
-<img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" style="max-width: 100%;">
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;">
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;">
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
-<img align="left" alt="Jquery" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" style="max-width: 100%;">
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;">
-<img align="left" alt="django" width="30px" src="https://www.svgrepo.com/show/353657/django-icon.svg" style="max-width: 100%;">
-<br/><h1 dir="auto"></h1>
+<!-- 🔗 Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/momenaboueisa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@momenaboueisa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.x.com/momenaboueisa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.instagram.com/momenaboueisa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/momenaboueisa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:momenessa594@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
- 
- 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=momenaboessa&style=for-the-badge&color=2c5364" alt="profile views"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+```csharp
+public class Developer
+{
+    public string Name        => "Momen Abou Eisa";
+    public string Role        => "Full-Stack Web Developer";
+    public int    Experience  => 6; // years and counting
+    public string[] BackEnd   => new[] { "C#", "ASP.NET Core", "Blazor", "Django" };
+    public string[] FrontEnd  => new[] { "TypeScript", "JavaScript", "HTML", "CSS" };
+    public string   Motto     => "Ship clean code. Never stop learning.";
+}
+```
+
+- 🔭 Building modern web apps with **ASP.NET Core** & **Blazor**
+- 🎥 Sharing knowledge on my YouTube channel → [**Momen Aboessa**](https://www.youtube.com/@momenaboueisa)
+- 🤝 Team player who loves collaboration and clean architecture
+- 📚 Currently exploring new technologies — always leveling up
+- 📫 Reach me at **momenessa594@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Back-End
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?style=for-the-badge&logo=database&logoColor=white" alt="SQL Server"/>
+</p>
+
+### 🎨 Front-End
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+</p>
+
+### 🧰 Tools & Environment
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=vsc&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=momenaboessa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenaboessa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=momenaboessa&theme=react&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momenaboessa&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="Contribution graph"/>
+</p>
+
+---
+
+## 🎬 Latest on YouTube
+
+<p align="center">
+  <a href="https://www.youtube.com/@momenaboueisa">
+    <img src="https://img.shields.io/badge/▶%20Watch%20my%20tutorials%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"/>
+  </a>
+</p>
+
+---
+
+<!-- 🌊 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="footer"/>
+</p>
+
+<p align="center">
+  <i>⚡ "Fueled by passion — delivering innovative solutions that optimize efficiency and elevate user experiences."</i>
+</p>
