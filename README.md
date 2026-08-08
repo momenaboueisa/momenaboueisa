@@ -15,7 +15,7 @@
 
 <!-- 🔗 Website + Socials -->
 <p align="center">
-  <a href="https://www.momenaboueisa.com"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-momenaboueisa.com-00C6FF?style=for-the-badge&logo=globe&logoColor=00C6FF&labelColor=0D1117" alt="Website"/></a>
+  <a href="https://www.momenaboueisa.com"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-momenaboueisa.com-00C6FF?style=for-the-badge&logo=globe&logoColor=white&labelColor=0072ff" alt="Website"/></a>
 </p>
 
 <p align="center">
