@@ -1,12 +1,12 @@
 <!-- ⚡ Animated hero banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:00c6ff,100:0072ff&text=Momen%20Abou%20Eisa&fontSize=55&fontColor=ffffff&animation=twinkling&desc=%3C%20Full-Stack%20Web%20Developer%20/%3E&descSize=20&descAlignY=68&stroke=00c6ff&strokeWidth=1" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0%3A00c6ff%2C100%3A0072ff&text=Momen%20Abou%20Eisa&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20.NET%20%E2%80%A2%20Blazor%20%E2%80%A2%20Django&descSize=18&descAlignY=55" alt="banner"/>
 </p>
 
 <!-- ⌨️ Terminal-style typing animation -->
 <p align="center">
   <a href="https://www.momenaboueisa.com">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami+→+Full-stack+web+developer;%24+experience+→+6%2B+years+of+coding;%24+stack+→+.NET+•+Blazor+•+Django;%24+status+→+Always+learning+🚀&font=Fira+Code&center=true&width=600&height=50&color=00C6FF&vCenter=true&pause=1000&size=20" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?lines=%24+whoami+%3A+Full-stack+web+developer;%24+experience+%3A+6%2B+years+of+coding;%24+stack+%3A+.NET+%2B+Blazor+%2B+Django;%24+status+%3A+Always+learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=50&color=00C6FF&vCenter=true&pause=1000&size=20" alt="typing intro"/>
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 <!-- 🔗 Website + Socials -->
 <p align="center">
-  <a href="https://www.momenaboueisa.com"><img src="https://img.shields.io/badge/🌐_Portfolio-momenaboueisa.com-00C6FF?style=for-the-badge&labelColor=0D1117" alt="Website"/></a>
+  <a href="https://www.momenaboueisa.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-momenaboueisa.com-00C6FF?style=for-the-badge&labelColor=0D1117" alt="Website"/></a>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
+## 🧑‍💻 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="coding gif"/>
 
@@ -58,7 +58,7 @@ public class Developer
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://www.momenaboueisa.com">
@@ -74,34 +74,34 @@ public class Developer
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=momenaboueisa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenaboueisa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C6FF" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=momenaboueisa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenaboueisa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=momenaboueisa&theme=react&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=momenaboueisa&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideLabels=00C6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momenaboueisa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff&area=true" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momenaboueisa&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff&area=true&area_color=00C6FF" alt="Contribution graph"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="35"> Latest on YouTube
+## 🎬 Latest on YouTube
 
 <p align="center">
   <a href="https://www.youtube.com/@momenaboueisa">
-    <img src="https://img.shields.io/badge/▶%20Watch%20my%20tutorials%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"/>
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20my%20tutorials%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"/>
   </a>
 </p>
 
 <!-- 🌊 Animated footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=130&section=footer&animation=twinkling" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0%3A00c6ff%2C100%3A0072ff&section=footer&animation=twinkling" alt="footer"/>
 </p>
 
 <p align="center">
