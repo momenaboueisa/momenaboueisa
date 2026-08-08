@@ -6,7 +6,7 @@
 <!-- ⌨️ Terminal-style typing animation -->
 <p align="center">
   <a href="https://www.momenaboueisa.com">
-    <img src="https://readme-typing-svg.demolab.com?lines=%24+whoami+%3A+Full-stack+developer;%24+experience+%3A+6%2B+years+of+coding;%24+stack+%3A+.NET+%2B+Blazor+%2B+Django;%24+status+%3A+Always+learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=435&height=45&color=00C6FF&vCenter=true&pause=1000&size=17" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?lines=%24+whoami+%3A+Full-stack+developer;%24+exp+%3A+6%2B+years+of+coding;%24+stack+%3A+.NET+%2B+Blazor+%2B+Django;%24+status+%3A+Always+learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=00C6FF&vCenter=true&pause=1000&size=18" alt="typing intro"/>
   </a>
 </p>
 
