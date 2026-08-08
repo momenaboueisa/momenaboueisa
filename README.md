@@ -1,12 +1,12 @@
 <!-- ⚡ Animated hero banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0%3A00c6ff%2C100%3A0072ff&text=Momen%20Abou%20Eisa&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20.NET%20%E2%80%A2%20Blazor%20%E2%80%A2%20Django&descSize=18&descAlignY=55" alt="banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0%3A00c6ff%2C100%3A0072ff&text=Momen%20Abou%20Eisa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20.NET%20%E2%80%A2%20Blazor%20%E2%80%A2%20Django&descSize=16&descAlignY=55" alt="banner"/>
 </p>
 
 <!-- ⌨️ Terminal-style typing animation -->
 <p align="center">
   <a href="https://www.momenaboueisa.com">
-    <img src="https://readme-typing-svg.demolab.com?lines=%24+whoami+%3A+Full-stack+web+developer;%24+experience+%3A+6%2B+years+of+coding;%24+stack+%3A+.NET+%2B+Blazor+%2B+Django;%24+status+%3A+Always+learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=50&color=00C6FF&vCenter=true&pause=1000&size=20" alt="typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?lines=%24+whoami+%3A+Full-stack+developer;%24+experience+%3A+6%2B+years+of+coding;%24+stack+%3A+.NET+%2B+Blazor+%2B+Django;%24+status+%3A+Always+learning+%F0%9F%9A%80&font=Fira+Code&center=true&width=435&height=45&color=00C6FF&vCenter=true&pause=1000&size=17" alt="typing intro"/>
   </a>
 </p>
 
@@ -77,8 +77,8 @@ public class Developer
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=momenaboueisa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenaboueisa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9" alt="Top languages"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=momenaboueisa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9" alt="GitHub stats"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=momenaboueisa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ public class Developer
 
 <!-- 🌊 Animated footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0%3A00c6ff%2C100%3A0072ff&section=footer&animation=twinkling" alt="footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0%3A00c6ff%2C100%3A0072ff&section=footer&animation=twinkling" alt="footer"/>
 </p>
 
 <p align="center">
