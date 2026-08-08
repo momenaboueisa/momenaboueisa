@@ -5,12 +5,16 @@
 
 <!-- ⌨️ Typing intro -->
 <p align="center">
-  <a href="https://github.com/momenaboessa">
+  <a href="https://www.momenaboueisa.com">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+developer;6%2B+years+of+coding+experience;Building+clean%2C+scalable+solutions;Always+learning+new+things+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" alt="typing intro"/>
   </a>
 </p>
 
-<!-- 🔗 Socials -->
+<!-- 🔗 Website + Socials -->
+<p align="center">
+  <a href="https://www.momenaboueisa.com"><img src="https://img.shields.io/badge/🌐%20Portfolio-momenaboueisa.com-36BCF7?style=for-the-badge&labelColor=0D1117" alt="Website"/></a>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/momenaboueisa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@momenaboueisa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
@@ -21,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=momenaboessa&style=for-the-badge&color=2c5364" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=momenaboueisa&style=for-the-badge&color=2c5364" alt="profile views"/>
 </p>
 
 ---
@@ -36,11 +40,13 @@ public class Developer
     public int    Experience  => 6; // years and counting
     public string[] BackEnd   => new[] { "C#", "ASP.NET Core", "Blazor", "Django" };
     public string[] FrontEnd  => new[] { "TypeScript", "JavaScript", "HTML", "CSS" };
+    public string   Website   => "https://www.momenaboueisa.com";
     public string   Motto     => "Ship clean code. Never stop learning.";
 }
 ```
 
 - 🔭 Building modern web apps with **ASP.NET Core** & **Blazor**
+- 🌐 Check out my portfolio → [**momenaboueisa.com**](https://www.momenaboueisa.com)
 - 🎥 Sharing knowledge on my YouTube channel → [**Momen Aboessa**](https://www.youtube.com/@momenaboueisa)
 - 🤝 Team player who loves collaboration and clean architecture
 - 📚 Currently exploring new technologies — always leveling up
@@ -83,16 +89,16 @@ public class Developer
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=momenaboessa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenaboessa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=momenaboueisa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenaboueisa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=momenaboessa&theme=react&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=momenaboueisa&theme=react&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momenaboessa&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momenaboueisa&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="Contribution graph"/>
 </p>
 
 ---
