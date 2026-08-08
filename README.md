@@ -15,7 +15,7 @@
 
 <!-- 🔗 Website + Socials -->
 <p align="center">
-  <a href="https://www.momenaboueisa.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-momenaboueisa.com-00C6FF?style=for-the-badge&labelColor=0D1117" alt="Website"/></a>
+  <a href="https://www.momenaboueisa.com"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-momenaboueisa.com-00C6FF?style=for-the-badge&logo=globe&logoColor=00C6FF&labelColor=0D1117" alt="Website"/></a>
 </p>
 
 <p align="center">
@@ -87,16 +87,6 @@ public class Developer
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=momenaboueisa&hide_border=true&bg_color=0D1117&color=00C6FF&line=00C6FF&point=ffffff&area=true&area_color=00C6FF" alt="Contribution graph"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="divider"/>
-
-## 🎬 Latest on YouTube
-
-<p align="center">
-  <a href="https://www.youtube.com/@momenaboueisa">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20my%20tutorials%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"/>
-  </a>
 </p>
 
 <!-- 🌊 Animated footer -->
